@@ -1,0 +1,6 @@
+-rw-rw-r-- 1 dev dev   141 mar 19 09:05 dati_taglie_10.csv
+-rw-rw-r-- 1 dev dev   367 mar 19 09:05 dati_taglie_27.csv
+-rw-rw-r-- 1 dev dev  3960 mar 19 09:05 dati_taglie_298.csv
+-rw-rw-r-- 1 dev dev  1202 mar 19 09:05 dati_taglie_90.csv
+-rw-rw-r-- 1 dev dev 13155 mar 19 09:04 dati_taglie_992.csv
+-rw-rw-r-- 1 dev dev 54576 mar 19 09:05 dati_taglie.csv

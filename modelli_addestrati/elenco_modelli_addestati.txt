@@ -1,0 +1,5 @@
+-rw-rw-r-- 1 dev dev      0 mar 19 09:04 modello_addestrato_27
+-rw-rw-r-- 1 dev dev  15373 mar 19 09:04 modello_addestrato_298
+-rw-rw-r-- 1 dev dev 159703 mar 19 09:04 modello_addestrato_3305
+-rw-rw-r-- 1 dev dev   5770 mar 19 09:04 modello_addestrato_90
+-rw-rw-r-- 1 dev dev  48407 mar 19 09:03 modello_addestrato_992

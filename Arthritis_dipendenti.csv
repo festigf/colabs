@@ -1,5 +1,4 @@
 ID,Treatment,Sex,Age,Improved
-57,Treated,Male,27,Some
 46,Treated,Male,29,Marked
 77,Treated,Male,30,Marked
 17,Treated,Male,32,Marked
@@ -10,12 +9,10 @@ ID,Treatment,Sex,Age,Improved
 33,Treated,Male,63,Marked
 55,Treated,Male,63,Marked
 30,Treated,Male,64,Marked
-5,Treated,Male,64,Some
 63,Treated,Male,69,Marked
 83,Treated,Male,70,Marked
 66,Treated,Female,23,Marked
 40,Treated,Female,32,Marked
-6,Treated,Female,37,Some
 7,Treated,Female,41,Marked
 72,Treated,Female,41,Marked
 37,Treated,Female,48,Marked
@@ -31,13 +28,16 @@ ID,Treatment,Sex,Age,Improved
 59,Treated,Female,59,Marked
 62,Treated,Female,60,Marked
 84,Treated,Female,61,Marked
-64,Treated,Female,62,Some
 34,Treated,Female,62,Marked
 58,Treated,Female,66,Marked
 13,Treated,Female,67,Marked
-61,Treated,Female,68,Some
 65,Treated,Female,68,Marked
 11,Treated,Female,69,Marked
+57,Treated,Male,27,Some
+5,Treated,Male,64,Some
+6,Treated,Female,37,Some
+64,Treated,Female,62,Some
+61,Treated,Female,68,Some
 56,Treated,Female,69,Some
 43,Treated,Female,70,Some
 9,Placebo,Male,37,None

@@ -1,21 +1,21 @@
-weather,temperature,target
-Sunny,Hot,Yes
-Partly cloudy,Warm,No
-Overcast,Cool,No
-Rainy,Cold,Yes
-Sunny,Warm,Yes
-Partly cloudy,Hot,Yes
-Overcast,Warm,No
-Rainy,Cool,Yes
-Sunny,Hot,Yes
-Partly cloudy,Warm,No
-Overcast,Cool,No
-Rainy,Cold,Yes
-Sunny,Warm,Yes
-Partly cloudy,Hot,Yes
-Overcast,Warm,No
-Rainy,Cool,Yes
-Sunny,Hot,Yes
-Partly cloudy,Warm,No
-Overcast,Cool,No
-Rainy,Cold,Yes
+meteo,temperatura,target
+soleggiato,caldo,sì
+poco nuvoloso,mite,no
+nuvoloso,fresco,no
+piovoso,freddo,sì
+soleggiato,mite,sì
+poco nuvoloso,caldo,sì
+nuvoloso,mite,no
+piovoso,fresco,sì
+soleggiato,caldo,sì
+poco nuvoloso,mite,no
+nuvoloso,fresco,no
+piovoso,freddo,sì
+soleggiato,mite,sì
+poco nuvoloso,caldo,sì
+nuvoloso,mite,no
+piovoso,fresco,sì
+soleggiato,caldo,sì
+poco nuvoloso,mite,no
+nuvoloso,fresco,no
+piovoso,freddo,sì
